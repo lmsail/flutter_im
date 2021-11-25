@@ -92,21 +92,21 @@ dependencies:
 
 ## 项目截图  
 
-![预览1](https://github.com/lmsail/flutter-wechat/blob/master/preview/1.png)
+![预览1](https://github.com/lmsail/flutter_im/blob/main/preview/1.png)
 
-![预览2](https://github.com/lmsail/flutter-wechat/blob/master/preview/2.png)
+![预览2](https://github.com/lmsail/flutter_im/blob/main/preview/2.png)
 
-![预览3](https://github.com/lmsail/flutter-wechat/blob/master/preview/3.png)
+![预览3](https://github.com/lmsail/flutter_im/blob/main/preview/3.png)
 
-![预览4](https://github.com/lmsail/flutter-wechat/blob/master/preview/4.png)
+![预览4](https://github.com/lmsail/flutter_im/blob/main/preview/4.png)
 
-![预览5](https://github.com/lmsail/flutter-wechat/blob/master/preview/5.png)
+![预览5](https://github.com/lmsail/flutter_im/blob/main/preview/5.png)
 
-![预览6](https://github.com/lmsail/flutter-wechat/blob/master/preview/6.png)
+![预览6](https://github.com/lmsail/flutter_im/blob/main/preview/6.png)
 
-![预览7](https://github.com/lmsail/flutter-wechat/blob/master/preview/7.png)
+![预览7](https://github.com/lmsail/flutter_im/blob/main/preview/7.png)
 
-![预览8](https://github.com/lmsail/flutter-wechat/blob/master/preview/8.png)
+![预览8](https://github.com/lmsail/flutter_im/blob/main/preview/8.png)
 
 
 ##
