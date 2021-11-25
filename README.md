@@ -92,21 +92,18 @@ dependencies:
 
 ## 项目截图  
 
-![预览1](https://github.com/lmsail/flutter_im/blob/main/preview/1.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/1.png" width="300px" alt="预览1" />
 
-![预览2](https://github.com/lmsail/flutter_im/blob/main/preview/2.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/2.png" width="300px" alt="预览2" />
 
-![预览3](https://github.com/lmsail/flutter_im/blob/main/preview/3.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/3.png" width="300px" alt="预览3" />
 
-![预览4](https://github.com/lmsail/flutter_im/blob/main/preview/4.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/4.png" width="300px" alt="预览4" />
 
-![预览5](https://github.com/lmsail/flutter_im/blob/main/preview/5.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/5.png" width="300px" alt="预览5" />
 
-![预览6](https://github.com/lmsail/flutter_im/blob/main/preview/6.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/6.png" width="300px" alt="预览6" />
 
-![预览7](https://github.com/lmsail/flutter_im/blob/main/preview/7.png)
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/7.png" width="300px" alt="预览7" />
 
-![预览8](https://github.com/lmsail/flutter_im/blob/main/preview/8.png)
-
-
-##
+<img src="https://github.com/lmsail/flutter_im/blob/main/preview/8.png" width="300px" alt="预览8" />
